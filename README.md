@@ -1,19 +1,19 @@
-The project is written in C# in the Microsoft Visual Studio .NET Framework development environment.
-It aims to simulate an online store, both for the entrepreneur and for the customer.
-The composition of this project is created with the help of a menu in which the following functions:
-  - saving and restoring data from TXT, binary and XML files
-  - printing sales and customer list
-  - account creation for the client/entrepreneur and login for the client/entrepreneur
-  - graph generation for sale and data binding of data
+The project is written in C# within the Microsoft Visual Studio .NET Framework development environment. Its purpose is to simulate an online store, catering to both entrepreneurs and customers.
+The composition of this project is created through a menu containing the following functionalities:
+  - Saving and restoring data using TXT, binary, and XML files
+  - Printing sales and customer lists
+  - Creating an account for customers/entrepreneurs
+  - Logging in for customers/entrepreneurs
+  - Generating sales graphics
+  - Data binding
 
-All data are stored in SQLite databases (stores, districts, products, customers and sales).
-The main interface consists of:
-   - store addition
-   - addition of rayon
-   - product addition
-   - add customer
-   - viewing the customers and the entered store as well as the copy function
-   - purchasing products by adding to the basket + viewing the basket
-   - choosing the payment method and making the transaction.
-     
-To view the project and the interface, you can open the SLN and press Run.
+All data is stored in SQLite databases (stores, sections, products, customers, and sales). The main interface consists of:
+  - Adding a store
+  - Adding a section
+  - Adding a product
+  - Adding a customer
+  - Viewing customers and the entered store, along with a copy function
+  - Purchasing products by adding to the cart + viewing the cart
+  - Choosing a payment method and completing the transaction.
+
+To view the project and the interface, you can open the solution file (.sln) and click on Run.
