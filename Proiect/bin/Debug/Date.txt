@@ -1,0 +1,5 @@
+Ianuarie,120
+Februarie,200
+Martie,250
+Aprilie,190
+Mai,80

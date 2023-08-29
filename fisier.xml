@@ -1,0 +1,26 @@
+<clienti>
+  <client>
+    <gen>Masculin</gen>
+    <nume>Popescu</nume>
+    <varsta>35</varsta>
+    <categorie>Standard</categorie>
+    <adresa>Strada Primaverii, Nr. 10</adresa>
+    <telefon>0723456789</telefon>
+  </client>
+  <client>
+    <gen>Feminin</gen>
+    <nume>Ionescu</nume>
+    <varsta>28</varsta>
+    <categorie>Gold</categorie>
+    <adresa>Bulevardul Libertatii, Nr. 15</adresa>
+    <telefon>0712345678</telefon>
+  </client>
+  <client>
+    <gen>Masculin</gen>
+    <nume>Popa</nume>
+    <varsta>42</varsta>
+    <categorie>Premium</categorie>
+    <adresa>Strada Victoriei, Nr. 20</adresa>
+    <telefon>0734567890</telefon>
+  </client>
+</clienti>

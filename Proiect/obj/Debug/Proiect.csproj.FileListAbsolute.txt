@@ -1,0 +1,72 @@
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\obj\Debug\Proiect.csproj.AssemblyReference.cache
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\obj\Debug\Proiect.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\bin\Debug\Proiect.exe.config
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\bin\Debug\Proiect.exe
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\bin\Debug\Proiect.pdb
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\obj\Debug\Proiect.Form1.resources
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\obj\Debug\Proiect.exe
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\obj\Debug\Proiect.pdb
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\obj\Debug\Proiect.Login.resources
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\bin\Debug\EntityFramework.dll
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\bin\Debug\EntityFramework.SqlServer.dll
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\bin\Debug\System.Data.SQLite.dll
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\bin\Debug\EntityFramework.xml
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\bin\Debug\EntityFramework.SqlServer.xml
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\bin\Debug\System.Data.SQLite.xml
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\obj\Debug\Proiect.csproj.CopyComplete
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\obj\Debug\Proiect.Meniu.resources
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\obj\Debug\Proiect.CreateAccount.resources
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\bin\Debug\LiveCharts.dll
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\bin\Debug\LiveCharts.WinForms.dll
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\bin\Debug\LiveCharts.Wpf.dll
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\bin\Debug\LiveCharts.pdb
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\bin\Debug\LiveCharts.xml
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\bin\Debug\LiveCharts.WinForms.pdb
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\bin\Debug\LiveCharts.WinForms.xml
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\bin\Debug\LiveCharts.Wpf.pdb
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\bin\Debug\LiveCharts.Wpf.xml
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\obj\Debug\Proiect.Grafic.resources
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\bin\Debug\Control.Draggable.dll
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\obj\Debug\Proiect.Form1Binding.resources
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows\Proiect\Proiect\obj\Debug\Proiect.Form2Binding.resources
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\bin\Debug\Proiect.exe.config
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\bin\Debug\Proiect.exe
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\bin\Debug\Proiect.pdb
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\bin\Debug\Control.Draggable.dll
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\bin\Debug\EntityFramework.dll
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\bin\Debug\EntityFramework.SqlServer.dll
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\bin\Debug\LiveCharts.dll
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\bin\Debug\LiveCharts.WinForms.dll
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\bin\Debug\LiveCharts.Wpf.dll
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\bin\Debug\System.Data.SQLite.dll
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\bin\Debug\EntityFramework.xml
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\bin\Debug\EntityFramework.SqlServer.xml
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\bin\Debug\LiveCharts.pdb
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\bin\Debug\LiveCharts.xml
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\bin\Debug\LiveCharts.WinForms.pdb
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\bin\Debug\LiveCharts.WinForms.xml
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\bin\Debug\LiveCharts.Wpf.pdb
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\bin\Debug\LiveCharts.Wpf.xml
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\bin\Debug\System.Data.SQLite.xml
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\obj\Debug\Proiect.csproj.AssemblyReference.cache
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\obj\Debug\Proiect.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\obj\Debug\Proiect.CreateAccount.resources
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\obj\Debug\Proiect.Form1.resources
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\obj\Debug\Proiect.Form1Binding.resources
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\obj\Debug\Proiect.Form2Binding.resources
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\obj\Debug\Proiect.Grafic.resources
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\obj\Debug\Proiect.Login.resources
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\obj\Debug\Proiect.Meniu.resources
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\obj\Debug\Proiect.csproj.CopyComplete
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\obj\Debug\Proiect.exe
+D:\Desktop\Facultate\Anul 2\Semestrul 2\Programarea aplicatiilor Windows- FINALIZAT 9\Proiect\Proiect\obj\Debug\Proiect.pdb

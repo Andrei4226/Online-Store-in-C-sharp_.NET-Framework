@@ -1,0 +1,6 @@
+<clienti>
+  <client gen="Masculin" nume="Petru" varsta="20" categorie="student">
+    <adresa>Bucuresti</adresa>
+    <telefon>07658365839</telefon>
+  </client>
+</clienti>
